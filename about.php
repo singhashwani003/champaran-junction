@@ -18,7 +18,7 @@
 
 <!-- about section area start -->
         <div class="about-content p-0" data-aos="fade-up" data-aos-delay="300">
-            <div class="container py-5 mt-5">
+            <div class="container py-5 mt-5 pt">
                 <div class="mad-section no-pb mad-section--stretched mad-colorizer--scheme-">
                     <div class="mad-colorizer-bg-color" style="left: -75.6px; right: -75.6px;"></div>
                     <div class="row justify-content-center">

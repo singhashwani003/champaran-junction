@@ -16,7 +16,7 @@
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css" integrity="sha512-yHknP1/AwR+yx26cB1y0cjvQUMvEa2PFzt1c9LlS4pRQ5NOTZFWbhBig+X9G9eYW/8m0/4OXNx8pxJ6z57x0dw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
         <!-- external css -->
-        <link rel="stylesheet" href="css/champaran.css?ver=11"/>
+        <link rel="stylesheet" href="css/champaran.css?ver=14"/>
 
         <!-- title -->
         <title>Champaran Junction</title>
@@ -28,14 +28,15 @@
     <body>
 
     <!-- header Area Started -->
-    <nav class="navbar navbar-expand-md navbar-dark sticky-top">
+    <!-- <nav class="navbar navbar-expand-md navbar-dark sticky-top">
         <div class="container-fluid sider">
-            <a class="navbar-brand" href="index.php"><img src="images/logo2.png" style="width:205px; height:100px;"></a>
+            <a class="navbar-brand" href="index.php"><img src="images/logo2.png" class="ms-4" style="width:150px; height:70px;"><br>
+        <span class="text-light fw-bolder cuisine">"Authentic Bihari Cuisine"</span></a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mynavbar">
             <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="mynavbar">
-                <ul class="navbar-nav ms-auto d-flex justify-content-center align-items-center">
+                <ul class="navbar-nav ms-auto">
                     <li class="nav-item mx-3">
                         <a class="nav-link py-0" href="index.php">Home</a>
                     </li>
@@ -51,7 +52,33 @@
                 </ul>
             </div>
         </div>
-    </nav>
+    </nav> -->
+    <nav class="navbar navbar-expand-md navbar-dark sticky-top">
+        <div class="container-fluid sider">
+            <a class="navbar-brand" href="index.php"><img src="images/logo2.png" class="ms-4" style="width:150px; height:70px;"><br>
+            <span class="text-light fw-bolder cuisine">"Authentic Bihari Cuisine"</span></a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mynavbar">
+            <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="mynavbar">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item mx-3">
+                        <a class="nav-link py-0" href="index.php">Home</a>
+                    </li>
+                    <li class="nav-item mx-3">
+                        <a class="nav-link py-0" href="about.php">About Us</a>
+                    </li>
+                    <li class="nav-item mx-3">
+                        <a class="nav-link py-0" href="gallery.php">Gallery</a>
+                    </li>
+                    <li class="nav-item mx-3">
+                        <a class="nav-link py-0" href="contact.php">Contact Us</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+</nav>
+
     <!-- header Area end -->
 
 

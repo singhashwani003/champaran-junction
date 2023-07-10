@@ -11,6 +11,9 @@
   <button type="button" data-bs-target="#demo" data-bs-slide-to="1"></button>
   <button type="button" data-bs-target="#demo" data-bs-slide-to="2"></button>
   <button type="button" data-bs-target="#demo" data-bs-slide-to="3"></button>
+  <button type="button" data-bs-target="#demo" data-bs-slide-to="4"></button>
+  <button type="button" data-bs-target="#demo" data-bs-slide-to="5"></button>
+  <button type="button" data-bs-target="#demo" data-bs-slide-to="6"></button>
 </div>
 
 <!-- The slideshow/carousel -->
@@ -22,19 +25,37 @@
                 </div>
         </div>
         <div class="carousel-item">
-            <img src="images/banner5.jpg" alt="Los Angeles" class="d-block" style="width:100%; height:900px">
+            <img src="images/food4.jpg" alt="Los Angeles" class="d-block" style="width:100%; height:900px">
                 <div class="carousel-caption" data-aos="fade-right" data-aos-easing="ease-in-out">
                   <h1 class="meet d-flex justify-content-start align-items-center" >Meet, Eat, Enjoy <br> The True Taste</h1>
                 </div>
         </div>
         <div class="carousel-item">
-            <img src="images/banner1.jpg" alt="Los Angeles" class="d-block" style="width:100%; height:900px">
+            <img src="images/food2.jpg" alt="Los Angeles" class="d-block" style="width:100%; height:900px">
                 <div class="carousel-caption" data-aos="fade-right" data-aos-easing="ease-in-out">
                   <h1 class="meet d-flex justify-content-start align-items-center" >Meet, Eat, Enjoy <br> The True Taste</h1>
+                </div>
+        </div>
+        <div class="carousel-item">
+            <img src="images/food7.jpg" alt="Los Angeles" class="d-block" style="width:100%; height:900px">
+                <div class="carousel-caption" data-aos="fade-right" data-aos-easing="ease-in-out">
+                  <h1 class="meet d-flex justify-content-start align-items-center">Meet, Eat, Enjoy <br> The True Taste</h1>
                 </div>
         </div>
         <div class="carousel-item">
             <img src="images/banner6.jpg" alt="Los Angeles" class="d-block" style="width:100%; height:900px">
+                <div class="carousel-caption" data-aos="fade-right" data-aos-easing="ease-in-out">
+                  <h1 class="meet d-flex justify-content-start align-items-center">Meet, Eat, Enjoy <br> The True Taste</h1>
+                </div>
+        </div>
+        <div class="carousel-item">
+            <img src="images/food9.jpg" alt="Los Angeles" class="d-block" style="width:100%; height:900px">
+                <div class="carousel-caption" data-aos="fade-right" data-aos-easing="ease-in-out">
+                  <h1 class="meet d-flex justify-content-start align-items-center">Meet, Eat, Enjoy <br> The True Taste</h1>
+                </div>
+        </div>
+        <div class="carousel-item">
+            <img src="images/banner5.jpg" alt="Los Angeles" class="d-block" style="width:100%; height:900px">
                 <div class="carousel-caption" data-aos="fade-right" data-aos-easing="ease-in-out">
                   <h1 class="meet d-flex justify-content-start align-items-center">Meet, Eat, Enjoy <br> The True Taste</h1>
                 </div>
@@ -53,7 +74,7 @@
               <img src="images/food7.jpg" alt="" style="width:100%; height:auto;border-radius: 1rem;">
             </div>
           </div>
-          <div class="col-sm-12 col-md-6 col-xl-6 col-lg-6 ps-5" data-aos="fade-left" data-aos-easing="ease-in-out">
+          <div class="col-sm-12 col-md-6 col-xl-6 col-lg-6 ps-5 ps" data-aos="fade-left" data-aos-easing="ease-in-out">
             <div class="mad-top-offset px-3" style="padding-top: 0px;">
                   <h2>CHAMPARAN JUNCTION</h2>
                   <p class="mad-text-large mad-text-color-2"><b>Champaran Junction is reinventing the traditional flavours of India to make Champaran meat - a true non-veg heaven for all meat lovers!</b></p>

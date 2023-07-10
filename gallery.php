@@ -18,7 +18,7 @@
 
 <!-- about section area start -->
 <section class="food pt-5" style="padding-bottom: 2rem;">
-    <div class="container-fluid px-5">
+    <div class="container-fluid px-5 pt">
         <div class="row d-flex align-items-center justify-content-between">
             <div class="col-sm-12 col-md-6 col-xl-3 col-lg-3 pt-4 ps-3" data-aos="fade-up" data-aos-delay="100">
                 <div class="card p-0" style="height:220px">

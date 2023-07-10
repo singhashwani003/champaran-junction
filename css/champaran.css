@@ -46,6 +46,11 @@ a{
     position: relative;
     z-index:1; 
 }
+.cuisine{
+    font-size: 1.125rem;
+    font-weight: bold;
+    letter-spacing: 0.5px;
+}
 .nav-item.active{
     border-bottom: 3px solid #e7c854;
     transition-duration: 0.5s;
@@ -80,9 +85,6 @@ a{
     opacity: 1;
     transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
     transform-origin: 50% 50% 0px;
-}
-.carousel-indicators [data-bs-target] {
-    width: 80px;
 }
 .champaran{
     margin-bottom: 8.5rem;
@@ -547,6 +549,196 @@ a{
 .mad-back-to-top i{
     font-size: 2rem;
     line-height: 3.5rem;
+}
+.mad-our-info.size-2 li i {
+    font-size: 18px!important;
+    margin-top: 8px!important;
+}
+.carousel-indicators [data-bs-target] {
+    width: 60px!important;
+}
+@media screen and (max-width:576px){
+  .champaran {
+    margin-bottom: 3rem!important;
+    padding-top: 3rem!important;
+  }
+  .sider {
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+.ps{
+    padding-left: 1rem!important;
+}
+.champaran h2 {
+    margin-top: 1rem;
+    font-size: 24px;
+    line-height: 4.5rem;
+    margin-bottom: 0rem;
+    color: #262123;
+    letter-spacing: -0.5px;
+    font-weight: bold;
+    font-family: 'Arvo', serif;
+}
+.champaran p {
+    text-align: justify;
+    margin-bottom: 1rem;
+    color: #262123;
+    font-size: 18px;
+    line-height: 30px;
+}
+.mad-read-more {
+    background-color: #e7c854;
+    padding: 10px 15px;
+    border-radius: 12px;
+    color: #281326;
+    font-weight: bold;
+    font-size: 16px;
+    white-space: nowrap;
+    display: inline-block;
+    position: relative;
+    line-height: 1.5rem;
+    width: fit-content;
+}
+.food .card {
+    position: relative;
+    height: auto;
+    overflow: hidden;
+    border-radius: 1rem;
+    border: none;
+}
+.food h2 {
+    margin-bottom: 0px;
+    color: #fff;
+    font-size: 30px;
+    line-height: 4.5rem;
+    letter-spacing: 1.5px;
+    font-weight: bold;
+    font-family: 'Arvo', serif;
+}
+.mad-footer .mad-widget-title {
+    font-size: 24px;
+    color: #fff;
+    letter-spacing: 0.5px;
+    margin-bottom: 1.5rem;
+    margin-top: 1rem;
+}
+.mad-social-icons ul li {
+    padding: 0px 10px;
+}
+.mad-social-icons.size-big ul li a {
+    font-size: 22px;
+    color: #fff;
+}
+.mt{
+    margin-top: 3rem!important;
+}
+.testimonial{
+    padding: 0px!important;
+}
+.mad-testiomonial-info blockquote {
+    font-size: 18px;
+    line-height: 34px;
+}
+.mad-testiomonial-info {
+    margin-bottom: 1rem;
+}
+.meet {
+    text-align: justify;
+    line-height: 50px;
+    letter-spacing: 3px;
+    font-weight: 700;
+    font-size: 40px;
+}
+.carousel-item img {
+    height:450px!important;
+}
+.carousel-indicators [data-bs-target] {
+    width: 41px;
+}
+.carousel-caption {
+    bottom: 40%;
+}
+.slick-dots {
+    bottom: 0px;
+}
+.slick-prev, .slick-next {
+    width: 50px;
+    top:35%;
+}
+.col-8 {
+    flex: 0 0 auto;
+    width: 88.666667%;
+}
+.mad-author cite {
+    color: #281326;
+    display: block;
+    font-size: 18px;
+    font-style: normal;
+    margin-bottom: 1.5rem;
+}
+.slick-prev::before, .slick-next::before {
+    font-size: 16px;
+    opacity: 1;
+    color: #e7c854 !important;
+}
+.nav-item{
+    margin-top: 1rem;
+}
+.article-text h1 {
+    color: #fff;
+    font-size: 3.5rem;
+    line-height: 5rem;
+    letter-spacing: 0.5px;
+    font-weight: bold;
+    font-family: 'Arvo', serif;
+}
+.pt{
+    padding-top: 0px!important;
+    padding-bottom: 1rem!important;
+    padding-left: 2rem!important;
+    padding-right:2rem!important;
+}
+.about-content h2 {
+    margin-bottom: 1.5rem;
+    text-align: center;
+    font-size: 2rem;
+    line-height: 3.5rem;
+    letter-spacing: 0.5px;
+}
+.about-content p {
+    margin-bottom: 0.8rem;
+    font-size: 18px;
+}
+.px{
+    padding-top:1rem!important;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+}
+.order {
+    font-size: 30px;
+    line-height: 2rem;
+    color: #262123;
+    letter-spacing: 0.5px;
+    margin-top: 1rem;
+}
+.mad-our-info.size-2 {
+    font-size: 16px;
+    line-height: 22px;
+}
+.mad-our-info.size-2 li i {
+    font-size: 15px!important;
+    margin-top: 4px!important;
+}
+.mad-tt-element {
+    display: block;
+    position: relative;
+    background: #281326;
+    border-radius: 1rem;
+    padding: 1.5rem;
+    color: #e7c854;
+    z-index: 1;
+    margin-top: 2rem;
+}
 }
   
   

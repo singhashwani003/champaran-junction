@@ -17,7 +17,7 @@
 <!-- Bannner area end -->
 
 <!-- about section area start -->
-<div class="mad-content mad-content--no-pt" style="padding-top: 6rem;">
+<div class="mad-content mad-content--no-pt px" style="padding-top: 6rem;">
         <div class="container">
           <div class="mad-section py-5">
             <div class="content-element-lg">
@@ -35,13 +35,13 @@
                       <ul class="mad-our-info size-2 p-0">
                         <li><i class="fas fa-location"></i>
                           <span>
-                                Champaran Junction Shop num 5 , Little India Food Court , Bharathiya city Road , Thanisandra , Bangalore 560064<br>
-                            <a href="#" class="mad-dir mad-link">Get Direction</a>
+                          Champaran Junction Shop number 5 , <br> <span class="fw-bolder" >Little India Food Court , Bhartiya city Road ,<br> Thanisandra , Bangalore  Karnataka, India 560064 </span><br>
+                            <a href="#" class="mad-dir mad-link fw-bolder">Get Direction</a>
                           </span>
                         </li>
                       </ul>
                     </div>
-                    <div class="col-sm-6 ps-5">
+                    <div class="col-sm-6 ps-5 ps">
                       <h4 class="order">Contact Us</h4>
                       <div class="content-element-2">
                         <ul class="mad-our-info size-2 p-0">
@@ -61,7 +61,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="col-xl-4 ps-5 pt-4">
+                <div class="col-xl-4 ps-5 pt-4 ps">
                   <div class="mad-tt-wrap">
                     <div class="mad-tt-element">
                       <h4 class="mad-title">We Are Open</h4>
@@ -77,7 +77,7 @@
                           </li>
                           
                         </ul>
-                        
+                        <div class="mad-tt-title mt-3">Order us from :- <br> <span class="text-light">Swiggy, Zomato, WhatsApp etc. </span></div>
                       </div>
                     </div>
                   </div>
