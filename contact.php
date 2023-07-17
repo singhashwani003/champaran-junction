@@ -18,7 +18,7 @@
 
 <!-- about section area start -->
 <div class="mad-content mad-content--no-pt px" style="padding-top: 6rem;">
-        <div class="container">
+      <div class="container">
           <div class="mad-section py-5">
             <div class="content-element-lg">
               <div class="row vr-size-2">
@@ -68,16 +68,21 @@
                       <div class="mad-timetable mad-vr-list">
                         <ul>
                           <li>
-                            <div class="mad-tt-title">Monday - Friday </div>
-                            11:00 AM – 11:00 PM
+                            <div class="mad-tt-title">Monday </div>
+                            12:30 PM to 10:30 PM (Last order)
                           </li>
                           <li>
-                            <div class="mad-tt-title">Saturday - Sunday</div>
-                           11:00 AM – 11:00 PM
+                            <div class="mad-tt-title">Tuesday to Sunday</div>
+                            11:00 AM to 10:30 PM (Last Order)
                           </li>
                           
                         </ul>
-                        <div class="mad-tt-title mt-3">Order us from :- <br> <span class="text-light">Swiggy, Zomato, WhatsApp etc. </span></div>
+                        <div class="mad-tt-title mt-4">Order us from :- </div> 
+                        <span class="d-flex justify-content-start align-items-center flex-nowrap" style="margin-top: -15px;">
+                          <a href="#"><img src="images/s2.png" alt="" style="width:100px; height:auto;"></a>
+                          <a href="#"><img src="images/biglogo.png" class="ps-3" alt="" style="width:100px; height:auto;"></a>
+                          <a href="#"><img src="images/w.png" alt="" class="ps-3" style="width:100px; height:auto;"></a>
+                        </span>
                       </div>
                     </div>
                   </div>

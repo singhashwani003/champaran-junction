@@ -16,7 +16,7 @@
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css" integrity="sha512-yHknP1/AwR+yx26cB1y0cjvQUMvEa2PFzt1c9LlS4pRQ5NOTZFWbhBig+X9G9eYW/8m0/4OXNx8pxJ6z57x0dw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
         <!-- external css -->
-        <link rel="stylesheet" href="css/champaran.css?ver=14"/>
+        <link rel="stylesheet" href="css/champaran.css?ver=19"/>
 
         <!-- title -->
         <title>Champaran Junction</title>
@@ -66,13 +66,19 @@
                         <a class="nav-link py-0" href="index.php">Home</a>
                     </li>
                     <li class="nav-item mx-3">
-                        <a class="nav-link py-0" href="about.php">About Us</a>
+                        <a class="nav-link py-0" href="about.php">Our Story</a>
+                    </li>
+                    <li class="nav-item mx-3">
+                        <a class="nav-link py-0" href="menu.php">Menu</a>
                     </li>
                     <li class="nav-item mx-3">
                         <a class="nav-link py-0" href="gallery.php">Gallery</a>
                     </li>
                     <li class="nav-item mx-3">
                         <a class="nav-link py-0" href="contact.php">Contact Us</a>
+                    </li>
+                    <li class="nav-item mx-3">
+                        <a class="nav-link py-0" href="login.php">Login</a>
                     </li>
                 </ul>
             </div>

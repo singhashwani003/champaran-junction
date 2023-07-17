@@ -22,7 +22,7 @@
                 <section class="mad-widget">
                   <h5 class="mad-widget-title">Contact Us</h5>
                   <p>
-                  Champaran Junction Shop number 5 , <br> <span class="fw-bolder" >Little India Food Court , Bhartiya city Road ,<br> Thanisandra , Bangalore  Karnataka, India 560064 </span>
+                  Champaran Junction <br><span class="fw-bolder" >Shop number 5 , <br> Little India Food Court , <br> Bhartiya city Road ,<br> Thanisandra , Bangalore <br> Karnataka, India 560064 </span>
                   </p>
                   
                   <p>
@@ -58,9 +58,8 @@
                 <!--================ Widget ================-->
                 <section class="mad-widget">
                   <h5 class="mad-widget-title mt">Timings</h5>
-                  <p>Monday - Friday : 11:00 AM - 11:00 PM</p>
-                  <p>Saturday : 11:00 AM - 11:00 PM</p>
-                  <p>Sunday : 11:00 AM - 11:00 PM</p>
+                  <p>Monday : 12:30 PM to 10:30 PM (Last order)</p>
+                  <p>Tuesday to Sunday : 11:00 AM to 10:30 PM (Last Order)</p>
                 </section>
                 <!--================ End of Widget ================-->
               </div>

@@ -7,9 +7,9 @@
         <div class="about">
             <div class="article-body p-0">
                 <div class="article-text d-flex flex-column align-items-center justify-content-center">
-                    <nav class="mad-breadcrumb-path"><span><a href="index.php" class="home">Home</a></span> / <span>About Us</span>
+                    <nav class="mad-breadcrumb-path"><span><a href="index.php" class="home">Home</a></span> / <span>Our Story</span>
                     </nav>
-                    <h1>About Us</h1>
+                    <h1>Our Story</h1>
                         <!-- <a href="#" class="mad-read-order">Order Now</a> -->
                 </div>
             </div>
@@ -24,7 +24,7 @@
                     <div class="row justify-content-center">
                         <div class="col-lg-8">
                                 <div class="content-element-9">
-                                    <h2 class="align-center">About Us</h2>
+                                    <h2 class="align-center">Our Story</h2>
                                     <div class="row">
                                         <div class="col-md-12">
                                             <p class="mad-text-big">Champaran Junction is reinventing the traditional flavours of India to make Champaran meat - a true non-veg heaven for all meat lovers!</p>
