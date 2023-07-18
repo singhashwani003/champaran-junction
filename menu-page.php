@@ -868,10 +868,10 @@
             <div class="row vr-size-1">
               <div class="col-lg-4">
                 <!--================ Widget ================-->
-                <section class="mad-widget d-flex flex-column align-items-center justify-content-center">
+                <section class="mad-widget ms-5 ps-5">
                   <h5 class="mad-widget-title text-start">Contact Us</h5>
                   <p class="text-start fw-bolder">
-                  Champaran Junction <br><span class="fw-bolder" >Shop number 5 , <br> Little India Food Court , <br> Bhartiya city Road ,<br> Thanisandra , Bangalore <br> Karnataka, India 560064 </span>
+                  Champaran Junction <br><span class="fw-bolder" >Shop number 5 <br> Little India Food Court  <br> Bhartiya city Road <br> Thanisandra  Bangalore <br> Karnataka India 560064 </span>
                   </p>
                   
                   <p class="text-start">
