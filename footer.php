@@ -19,13 +19,13 @@
             <div class="row vr-size-1">
               <div class="col-lg-4">
                 <!--================ Widget ================-->
-                <section class="mad-widget">
-                  <h5 class="mad-widget-title">Contact Us</h5>
-                  <p>
+                <section class="mad-widget d-flex flex-column align-items-center justify-content-center">
+                  <h5 class="mad-widget-title text-start">Contact Us</h5>
+                  <p class="text-start fw-bolder">
                   Champaran Junction <br><span class="fw-bolder" >Shop number 5 , <br> Little India Food Court , <br> Bhartiya city Road ,<br> Thanisandra , Bangalore <br> Karnataka, India 560064 </span>
                   </p>
                   
-                  <p>
+                  <p class="text-start">
                   <i class="fas fa-phone"></i><a href="#" style="margin-left: 10px;color:#fff;">09717312123</a>
                   </p>
                  

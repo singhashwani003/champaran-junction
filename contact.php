@@ -34,8 +34,8 @@
                       <h4 class="order">Our Location</h4>
                       <ul class="mad-our-info size-2 p-0">
                         <li><i class="fas fa-location"></i>
-                          <span>
-                          Champaran Junction Shop number 5 , <br> <span class="fw-bolder" >Little India Food Court , Bhartiya city Road ,<br> Thanisandra , Bangalore  Karnataka, India 560064 </span><br>
+                          <span class="fw-bolder">
+                          Champaran Junction <br><span class="fw-bolder" >Shop number 5 , <br> Little India Food Court , <br> Bhartiya city Road ,<br> Thanisandra , Bangalore <br> Karnataka, India 560064 </span><br>
                             <a href="#" class="mad-dir mad-link fw-bolder">Get Direction</a>
                           </span>
                         </li>
